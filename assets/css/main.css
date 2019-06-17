@@ -124,11 +124,12 @@ input, select, textarea {
 		margin: 0 auto;
 		padding: 15px;
 		border: 2px solid #444;
+		background-color: black;
 		:hover: 
 	}
 
 	.logos:hover { 
-		background-color: black;
+		background-color: #444;
 	}
 
 /* Type */
